@@ -8,7 +8,7 @@ public class Lottery
       int[] lotteryNumber =  new int[5];
       int[] yourLottery = new int[5];
       lotteryNumber = generateLotteryNumber();
-      System.out.print("welcome to play Lottery  GitHub..."
+      System.out.print("welcome to play Lottery ..."
                        + "\n1. enter your own lottery number"
                        + "\n2. get a computer-generated lottery number"
                        + "\nyour choice: ");

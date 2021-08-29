@@ -49,6 +49,7 @@ public class Lottery
          }
          System.out.println("\nThere are " + compareNumbers(lotteryNumber, yourLottery) 
                             + " matching digits.");
+         System.out.println("\n Hello git!");
             break;
          default:
             System.out.println("Sorry, improper input, now exiting...");
